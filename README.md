@@ -132,3 +132,8 @@ Note that we could have written the composition without storing the intermediate
 def area2(xc, yc, xp, yp):
   return area(distance(xc, yc, xp, yp))
 ```
+
+## Exploring further
+How can we use this idea of problem deconstruction to solve other problems we might experience?
+- What other math problems might we solve?
+- Are there other tasks that could be broken up into smaller pieces?
